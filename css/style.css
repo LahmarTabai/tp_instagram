@@ -1,0 +1,45 @@
+/* Reset */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+html{
+    font-size: 62.5%;
+
+}
+body{
+    font: 1.6rem 'Open Sans' ,sans-serif;
+    margin: 0;
+    
+}
+*{
+    box-sizing: border-box;
+}
+p{
+    line-height: 2.5rem;
+}
+address{
+    font-style: normal;
+}
+h1,h2,h3,p,blockquote,figure,ul{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+
+}
+a{
+    text-decoration:none;
+    color: #222;
+    text-transform: capitalize;
+}
+input {
+    border: 0;
+    font-size: inherit;
+    outline: transparent;
+    transition: all 0.5rem ease-in-out;
+}
+button{
+    border: 0;
+    background-color: transparent;
+    font-size: initial;
+    text-transform: uppercase;
+}
+
+/* Thème */
