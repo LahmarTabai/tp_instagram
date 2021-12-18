@@ -15,5 +15,10 @@
     "url": "https://github.com/LahmarTabai/tp_instagram/issues"
   },
   "homepage": "https://github.com/LahmarTabai/tp_instagram#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
+  },
+  "dependencies": {},
   "description": ""
 }
