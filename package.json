@@ -1,0 +1,19 @@
+{
+  "name": "tp_instagram",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel --no-babelrc src -w -d js --preset=env"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LahmarTabai/tp_instagram.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LahmarTabai/tp_instagram/issues"
+  },
+  "homepage": "https://github.com/LahmarTabai/tp_instagram#readme",
+  "description": ""
+}

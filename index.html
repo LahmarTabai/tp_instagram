@@ -6,7 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Instagram</title>
     <link rel="stylesheet" href="./css/style.css">
-    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300,400,600,700&lang=en" />
     <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
 
@@ -21,11 +20,11 @@
 
         <fieldset>
             <legend>Sign In</legend>
-            <form id="myForm"  method="post">
+            <form id="myForm"  method="get" action="./acceuil.html">
                 <input type="text" id="uname" name="username" placeholder="Num. téléphone, nom d'utilisateur ou e-mail" required>
                 <input type="password" id="password-field" name="password" placeholder="Mot de passe" required>
     
-                <button id="but" type="button" class="signinbtn">Connexion</button>
+                <button id="but" type="submit" onclick="setData()" class="signinbtn">Connexion</button>
 
             </form>
 
@@ -141,6 +140,6 @@
             &copy; - lahmar Tabai 2021
         </p>
     </footer>
-    
+    <script src="./js/app.js"></script>
 </body>
 </html>
