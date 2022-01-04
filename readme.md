@@ -330,7 +330,7 @@
     .darty {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
-        grid-gap: .1rem;
+        grid-gap: 1rem;
     }
     
     .darty li:first-child {
@@ -678,11 +678,9 @@
             opacity: 1;
             z-index: 5;
         }
-    } 
-    
-   
-    
+    }  
 }
+
 
 ```
 
