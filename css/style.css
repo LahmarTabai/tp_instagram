@@ -8,7 +8,7 @@
         line-height: 5rem;
         text-align: center;
         text-transform: uppercase;
-        color: #a19f9f;
+        color: #545454;
         font-size: 100%;
         margin-top: 2rem;
     }
@@ -68,7 +68,7 @@
     main div button {
         display: block;
         width: 100%;
-        background-color: #b2dffc;
+        background-color: #0F5885;
         color: #fbfdfe;
         line-height: 2.5rem;
         padding: .5rem;
@@ -97,7 +97,7 @@
     }
     
     input::placeholder {
-        color: rgb(92, 86, 86);
+        color: rgb(90, 88, 88);
     }
     
     .facebook {
@@ -212,7 +212,7 @@
         line-height: 5rem;
         text-align: center;
         text-transform: uppercase;
-        color: #a19f9f;
+        color: #545454;
         font-size: 100%;
         margin-top: 2rem;
     }
@@ -277,7 +277,7 @@
     main div button {
         display: block;
         width: 100%;
-        background-color: #b2dffc;
+        background-color: #0F5885;
         color: #fbfdfe;
         line-height: 2.5rem;
         padding: .5rem;

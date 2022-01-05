@@ -32,7 +32,6 @@ a{
 input {
     border: 0;
     font-size: inherit;
-    outline: transparent;
     transition: all 0.5rem ease-in-out;
 }
 button, select {
