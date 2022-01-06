@@ -94,6 +94,7 @@
     
     .card {
         font-weight: bold;
+        color: #595959;
     }
     
     input::placeholder {
@@ -130,7 +131,7 @@
     }
     
     main section h2 a {
-        color: #0798f6;
+        color: #015a95;
     }
     
     main section h3 {
@@ -162,7 +163,7 @@
     .aside-ul-1 {
         font-size: 1.2rem;
         line-height: 1.6rem;
-        color:  rgba(142,142,142,1);
+        color: #595959;
         display: grid;
         grid-template-columns: repeat(15, 1fr);
         grid-gap: 1rem;
@@ -173,7 +174,7 @@
     .aside-ul-2 {
         font-size: 1.2rem;
         line-height: 1.6rem;
-        color:  rgba(142,142,142,1);
+        color: #595959;
         display: grid;
         grid-template-columns: repeat(9, 1fr);
         grid-gap: 1rem;
@@ -183,7 +184,7 @@
     footer {
         font-size: 1.2rem;
         line-height: 1.6rem;
-        color:  rgba(142,142,142,1);
+        color: #595959;
         margin: 0 auto;
         text-align: center;
         margin-top: 2rem;
@@ -191,7 +192,7 @@
     }
     
     footer select {
-        color:  rgba(142,142,142,1);
+        color: #595959;
         width: 9rem;
     }
     
@@ -303,6 +304,7 @@
     
     .card {
         font-weight: bold;
+        color: #595959;
     }
     
     input::placeholder {
@@ -339,7 +341,7 @@
     }
     
     main section h2 a {
-        color: #0798f6;
+        color: #015a95;
     }
     
     main section h3 {
@@ -371,7 +373,7 @@
     .aside-ul-1 {
         font-size: 1.2rem;
         line-height: 1.6rem;
-        color:  rgba(142,142,142,1);
+        color:  #595959;
         display: grid;
         grid-template-columns: repeat(15, 1fr);
         grid-gap: 1rem;
@@ -382,7 +384,7 @@
     .aside-ul-2 {
         font-size: 1.2rem;
         line-height: 1.6rem;
-        color:  rgba(142,142,142,1);
+        color:  #595959;
         display: grid;
         grid-template-columns: repeat(9, 1fr);
         grid-gap: 1rem;
@@ -392,7 +394,7 @@
     footer {
         font-size: 1.2rem;
         line-height: 1.6rem;
-        color:  rgb(124, 122, 122);
+        color:  #595959;
         margin: 0 auto;
         text-align: center;
         margin-top: 2rem;
@@ -400,7 +402,7 @@
     }
     
     footer select {
-        color:  rgba(142,142,142,1);
+        color:  #595959;
         width: 9rem;
     }
     
