@@ -196,7 +196,7 @@
         width: 9rem;
     }
     
-    main #pirate, aside {
+    #pirate, aside {
         display: none;
     }
     
