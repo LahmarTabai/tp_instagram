@@ -29,7 +29,7 @@
         margin: 2rem auto 1rem;
     }
     
-    main fieldset {
+    main .fieldset {
         border: solid rgb(224, 222, 222) .1rem;
     }
     
@@ -68,7 +68,7 @@
     main div button {
         display: block;
         width: 100%;
-        background-color: #0F5885;
+        background-color: #07629b;
         color: #fbfdfe;
         line-height: 2.5rem;
         padding: .5rem;
@@ -125,7 +125,7 @@
         margin: 1rem .2rem;    
     }
     
-    main fieldset, main section h2 {
+    main .fieldset, main section h2 {
         background-color: #ffffff;
     }
     
@@ -192,7 +192,7 @@
     
     footer select {
         color:  rgba(142,142,142,1);
-        width: 8.5rem;
+        width: 9rem;
     }
     
     main div:nth-child(1), aside {
@@ -238,11 +238,11 @@
     }
     
     
-    main fieldset {
+    main .fieldset {
         border: solid rgb(224, 222, 222) .1rem;
     }
     
-    #logo-svg {
+    #logo {
         max-width: 17.5rem;
         height: 5.1rem;
         margin: 2rem auto;
@@ -277,7 +277,7 @@
     main div button {
         display: block;
         width: 100%;
-        background-color: #0F5885;
+        background-color: #07629b;
         color: #fbfdfe;
         line-height: 2.5rem;
         padding: .5rem;
@@ -334,7 +334,7 @@
         margin: 1rem .2rem;    
     }
     
-    main fieldset, main section h2 {
+    main .fieldset, main section h2 {
         background-color: #ffffff;
     }
     
@@ -392,7 +392,7 @@
     footer {
         font-size: 1.2rem;
         line-height: 1.6rem;
-        color:  rgba(142,142,142,1);
+        color:  rgb(124, 122, 122);
         margin: 0 auto;
         text-align: center;
         margin-top: 2rem;
@@ -401,7 +401,7 @@
     
     footer select {
         color:  rgba(142,142,142,1);
-        width: 8.5rem;
+        width: 9rem;
     }
     
     #mail_manquant {
