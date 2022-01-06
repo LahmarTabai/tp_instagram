@@ -9,7 +9,7 @@ header > h1{
     line-height: 5rem;
     text-align: center;
     text-transform: uppercase;
-    color: #a19f9f;
+    color: #595959;
     font-size: 100%;
     margin: 2rem auto; 
     max-width: 80.0rem;
@@ -25,7 +25,7 @@ main img {
 }
 
 main, footer{
-    max-width: 80.0rem;
+    max-width: 100.0rem;
     background-color: #fafafa;
     padding: 1.0rem;
     margin: 2rem auto 1rem;
@@ -50,7 +50,7 @@ main section h2 {
 }
 
 main section:nth-child(1) h2 {
-    color: rgb(24, 194, 9);
+    color: #355b00;
 }
 
 main section:nth-child(2) p {

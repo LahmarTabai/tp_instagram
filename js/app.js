@@ -12,6 +12,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
       validation.addEventListener("click", mailMissing);
 
+
       function mailMissing(e) {
             if (mail_v.test(mail.value) && pass_v.test(pass.value)) {
                   mail_m.textContent = "";
