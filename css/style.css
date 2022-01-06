@@ -196,7 +196,7 @@
         width: 9rem;
     }
     
-    main div:nth-child(1), aside {
+    main #pirate, aside {
         display: none;
     }
     
