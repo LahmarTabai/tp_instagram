@@ -123,7 +123,7 @@
         border: solid rgb(224, 222, 222) .1rem;
         line-height: 7rem;
         text-align: center;
-        margin: 1rem .2rem;    
+        margin: 1rem 0;    
     }
     
     main .fieldset, main section h2 {
@@ -236,6 +236,7 @@
         display: grid;
         grid-template-columns: repeat(2, 1fr);
         grid-gap: 2.0rem;
+
     }
     
     
@@ -333,7 +334,7 @@
         border: solid rgb(224, 222, 222) .1rem;
         line-height: 7rem;
         text-align: center;
-        margin: 1rem .2rem;    
+        margin: 1rem 0;    
     }
     
     main .fieldset, main section h2 {
@@ -343,7 +344,8 @@
     main section h2 a {
         color: #015a95;
     }
-    
+
+
     main section h3 {
         display: block;
         text-align: center;
